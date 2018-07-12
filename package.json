@@ -1,0 +1,9 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "newsapi": "^2.2.2"
+  }
+}
